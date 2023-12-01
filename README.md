@@ -23,6 +23,19 @@ Para poner en marcha la aplicación:
 
 1. Asegurate de tener instalado xampp en tu sistema.
 
+¿Como poner en marcha el proyecto?
+1.1 Dar de alta a xampp<br>
+
+    LINUX
+    para iniciar => sudo /opt/lampp/lampp start
+    para detener => sudo /opt/lampp/lampp stop
+
+<img src="./img/linux.png" width='600px'/><br><br>
+
+    WINDOWS
+
+<img src="./img/windows.png" width='400px'/><br><br>
+
 2. Creacion de la base de datos
 
 <img src="./img/creacionBdd.png" width='400px'/><br>
@@ -33,7 +46,7 @@ Para poner en marcha la aplicación:
 4.  Mediante una consulta sql, pegar el contenido y aceptar<br>
     <img src="./img/cargarDatos.png" width='400px'/><br><br>
 
-        4.1. Vista de las tablas creadas 
+        4.1. Vista de las tablas creadas
 
     <img src="./img/tablas.png" width='400px'/><br><br>
 
