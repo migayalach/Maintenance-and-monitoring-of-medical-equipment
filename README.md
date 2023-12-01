@@ -23,7 +23,7 @@ Para poner en marcha la aplicación:
 
 1. Asegurate de tener instalado xampp en tu sistema.
 
-¿Como poner en marcha el proyecto?
+¿Como poner en marcha el proyecto?<br>
 1.1 Dar de alta a xampp<br>
 
     LINUX
